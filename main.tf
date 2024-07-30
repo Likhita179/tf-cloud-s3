@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "MyBucket" {
-  bucket = "tf-cloud-likhi-bucket"
+  bucket = "tf-cloud-likhita-bucket"
 }
